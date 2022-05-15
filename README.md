@@ -4,6 +4,9 @@ Allows you to visualise data/output of a C programme.
 
 Download Gnuplot: www.gnuplot.info
 
+Go to download, then primary download site on sourceforge.
+
+Or go directly to the primary download site: https://sourceforge.net/projects/gnuplot/files/gnuplot/
 
 Remember to add its bin PATH to the environment variable.
 
