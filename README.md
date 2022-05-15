@@ -2,7 +2,7 @@
 
 Allows you to visualise data/output of a C programme.
 
-Download Gnuplot: https://gnuplot.info
+Download Gnuplot: www.gnuplot.info
 
 
 Remember to add its bin PATH to the environment variable.
